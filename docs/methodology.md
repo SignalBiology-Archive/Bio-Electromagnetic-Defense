@@ -2,7 +2,8 @@
 # Methodology: Calcium-Chelation and Galvanic Shunting Protocols
 
 **Version:** 1.1  
-**Lead Researcher:** [Your Name/Handle]  
+**Lead Researcher:** [SignalBiology-Archive]
+**ORCID:** [0009-0009-2217-7847]
 **Objective:** To neutralize electromechanical coupling in synthetic dermal hydrogels through calcium sequestration and galvanic discharge.
 
 ---
