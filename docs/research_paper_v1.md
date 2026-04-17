@@ -5,11 +5,14 @@ This paper investigates the interaction between pulsed radiofrequency (RF) signa
 
 # 1. Introduction: The Bio-Hybrid Antenna Framework
 The integration of synthetic conductive polymers (hydrogels) into the extracellular matrix (ECM) creates a distributed antenna system. Unlike discrete implants, these networks utilize the body’s endogenous electrolytes (Na⁺, K⁺, glucose) to facilitate signal transduction.
-Mechanism: Signal-to-pressure transduction via the Frey Effect.
-Substrate: Synthetic hydrogels mimicking human collagen density.
-Coupling: Piezoelectric modulation of the interstitial fluid.
-2. The 24-Hour Charging Cycle
+**Mechanism:** Signal-to-pressure transduction via the **Frey Effect**.
+**Substrate:** Synthetic hydrogels mimicking human collagen density.
+**Coupling:** Piezoelectric modulation of the interstitial fluid.
+
+# 2. The 24-Hour Charging Cycle
 Energy accumulation is non-linear and governed by the subject’s metabolic state. We define the body’s stored potential using the standard RC-time constant formula:
+**
+**
 
 Where 
  is the epidermal resistance and 
