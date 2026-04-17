@@ -1,1 +1,8 @@
 
+Timestamp,Metabolic_State,Ca_Exposure,Turgor_Level,RF_Interference_Score,Mitigation_Step,Recovery_Time_Min
+2024-05-01T08:00,Fasting,None,0,1,None,0
+2024-05-01T09:00,High_Carb,None,1,3,None,0
+2024-05-01T10:00,High_Carb,Hard_Water_Wash,3,9,None,0
+2024-05-01T10:15,Insulin_Peak,None,2,6,Galvanic_Shunting,15
+2024-05-01T10:30,Insulin_Reset,Citric_Rinse,0,0,Shunting_Complete,20
+2024-05-01T22:00,Stable,None,1,2,None,0
