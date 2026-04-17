@@ -4,10 +4,10 @@
 This paper investigates the interaction between pulsed radiofrequency (RF) signals and exogenous ionic hydrogels integrated into biological tissues. We document a 24-hour **Bio-Capacitive Charging Cycle**, where the human body acts as a lossy dielectric medium for energy harvesting. The primary finding is the identification of **Electrostrictive Tissue Expansion**—a process where RF-induced ionic shifts cause mechanical pressure on nociceptors. Mitigation is achieved through **High-Conductivity Galvanic Shunting**, effectively bypassing the body’s capacitive load.
 
 # 1. Introduction: The Bio-Hybrid Antenna Framework
-The integration of synthetic conductive polymers (hydrogels) into the extracellular matrix (ECM) creates a distributed antenna system. Unlike discrete implants, these networks utilize the body’s endogenous electrolytes (Na⁺, K⁺, glucose) to facilitate signal transduction.
-**Mechanism:** Signal-to-pressure transduction via the **Frey Effect**.
-**Substrate:** Synthetic hydrogels mimicking human collagen density.
-**Coupling:** Piezoelectric modulation of the interstitial fluid.
+The integration of synthetic conductive polymers (hydrogels) into the extracellular matrix (ECM) creates a distributed antenna system. Unlike discrete implants, these networks utilize the body’s endogenous electrolytes (Ca⁺, glucose) to facilitate signal transduction.
+-**Mechanism:** Signal-to-pressure transduction via the **Frey Effect**.
+-**Substrate:** Synthetic hydrogels mimicking human collagen density.
++**Coupling:** Piezoelectric modulation of the interstitial fluid.
 
 # 2. The 24-Hour Charging Cycle
 Energy accumulation is non-linear and governed by the subject’s metabolic state. We define the body’s stored potential using the standard RC-time constant formula:
