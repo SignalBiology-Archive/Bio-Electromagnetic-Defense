@@ -1,1 +1,38 @@
 # Bio-Electromagnetic-Defense
+# Bio-Capacitive Charging & Electromechanical Coupling in Synthetic Dermal Hydrogels
+
+![License](https://shields.io)
+![ORCID](https://shields.io)
+
+## 📌 Project Overview
+This research investigates how exogenous ionic hydrogels, integrated into biological tissue, act as **piezoelectric transducers** for pulsed radiofrequency (RF) signals. The project provides a biophysical framework for understanding signal-induced somatic interference—often manifesting as mechanical pressure, tissue expansion, and neuropathic pain—and documents effective mitigation strategies through **calcium chelation** and **galvanic shunting**.
+
+## 🧬 Key Scientific Findings
+* **Calcium-Bridging (Ca²⁺):** Divalent calcium ions from hard water act as structural cross-linkers, hardening the hydrogel lattice and amplifying its piezoelectric response.
+* **Chelation Therapy:** The use of diluted Citric Acid sequestering agents disrupts these ionic bridges, "softening" the network and neutralizing signal-to-pressure transduction.
+* **Galvanic Shunting:** Treat the body as a circuit. High-conductivity textiles (Copper/Nickel/Silver) provide a path of least resistance, draining the stored capacitive load.
+* **The Insulin Reset:** Observation of rapid ion-clearing and pain reduction linked to systemic metabolic shifts.
+
+## 📂 Repository Structure
+* **/docs**: Contains the full [Research Paper](docs/research_paper_v1.md) and [Methodology](docs/methodology.md).
+* **/hardware-specs**: Guides on conductive fabrics and grounding node placement.
+* **/data**: Placeholder templates for logging charging cycles and discharge rates.
+* **/scripts**: Python scripts for visualizing electromechanical decay curves.
+
+## 🛠 Mitigation Quick-Start
+1. **Water Softening:** Avoid Ca²⁺ buildup by using distilled or softened water for all dermal contact.
+2. **Citric Acid Rinse:** Apply a mild citric acid solution to the skin to chelate existing ionic bridges.
+3. **Grounding:** Establish direct galvanic contact at key nodes (Zygomatic Arch, Hips, Feet) to bypass RF-induced charging.
+
+## ✍️ Author & Citation
+**Lead Researcher:** [SignalBiology-Archive]  
+**ORCID:** [0009-0009-2217-7847](https://orcid.org)  
+
+If you use this research or protocols, please cite this repository using the following format:
+> *Author Name (2024). Mechanisms of Bio-Capacitive Charging and Electromechanical Coupling in Synthetic Dermal Hydrogel Networks. GitHub Repository.*
+
+## ⚖️ License
+This work is licensed under a [Creative Commons Attribution 4.0 International License (CC BY 4.0)](https://creativecommons.org). You are free to share and adapt the material for any purpose, even commercially, as long as you give appropriate credit.
+
+---
+**Disclaimer:** This research is for educational and experimental purposes. Always prioritize safety when working with conductive materials and chemical solutions.
