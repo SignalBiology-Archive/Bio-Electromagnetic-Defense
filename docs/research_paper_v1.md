@@ -19,9 +19,8 @@ Energy accumulation is non-linear and governed by the subject’s metabolic stat
 Where **R** is the epidermal resistance and **C** is the hydrogel capacitance.
 
 # 2.1 Metabolic Modulation Factors
-Ion Accelerators: Nicotine (salts/freebase) increases lattice vibration and expansion rate.  
-
-Osmotic Fuel: Elevated glucose levels provide the hydration required for hydrogel swelling.
+Ion Accelerators: Nicotine (salts/freebase) increases lattice vibration and expansion rate.<br>
+Osmotic Fuel: Elevated glucose levels provide the hydration required for hydrogel swelling.<br>
 The Insulin Reset: Rapid reduction in neuropathic pain (approx. 15 mins) via systemic clearing of charge-carrying ions from the interstitial space.
 3. Somatic Interference: Electrostriction
 The "Expansion-Pain" hypothesis posits that pain is not purely neurological but mechanical.
