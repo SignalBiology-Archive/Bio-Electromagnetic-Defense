@@ -65,8 +65,11 @@ If you use these protocols, data, or theoretical frameworks in your own work, pl
 
 
 
-
 ---
+---
+
+
+
 **⚠️ Safety Disclaimer:** This research is for educational purposes. Always utilize current-limiting resistors in grounding circuits and perform patch tests for topical chelation agents.
 
 
