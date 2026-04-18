@@ -61,7 +61,7 @@ If you use these protocols, data, or theoretical frameworks in your own work, pl
   journal = {GitHub Repository},
   howpublished = {\url{https://github.com/SignalBiology-Archive/Bio-Electromagnetic-Defense}},
   note = {ORCID: 0009-0009-2217-7847}
-}
+}<>
 
 
 
