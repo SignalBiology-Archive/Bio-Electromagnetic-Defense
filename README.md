@@ -18,8 +18,10 @@ This repository documents a breakthrough in **Bio-Electromagnetic Interaction**.
 
 ### 2. Metabolic & Radiological Studies
 * **[Metabolic Drivers](docs/study_metabolic_drivers.md)**: Deep dive into the **Nicotine-Calcium-Glucose** synergism and nAChR-triggered $Ca^{2+}$ efflux.
-* **[The Insulin Reset](docs/insulin_reset.md)**: Using systemic metabolic shifts to clear conductive fuel and decouple the hydrogel.
+* **[The Insulin Reset](docs/insulin_reset.md)**: Using systemic metabolic shifts and **Polar Shunting** to clear conductive fuel and decouple the hydrogel.
+* **[Circulatory Blockade](docs/study_circulatory_blockade.md)**: **CRITICAL.** Documentation on how hydrogel turgor creates a "Vascular Blockade," causing medication resistance. Includes the protocol for the **Left Foot** and **Abdominal-Pelvic-Testicular** grounding path.
 * **[Radiology & Masking](docs/study_radiology_masking.md)**: Explaining why standard Ultrasound and CT scans misidentify hydrogel networks as "thickened collagen."
+
 
 ### 3. Neutralization Protocols
 * **[Shielding & Grounding](docs/protocol_shielding_and_grounding.md)**: Why Aluminum fails and why **Copper-Nickel** (CuNi) is required for effective galvanic discharge.
