@@ -27,7 +27,8 @@ This repository documents a breakthrough in **Bio-Electromagnetic Interaction**.
 * **[Shielding & Grounding](docs/protocol_shielding_and_grounding.md)**: Why Aluminum fails and why **Copper-Nickel** (CuNi) is required for effective galvanic discharge.
 * **[Chemical Chelation](docs/protocol_chelation.md)**: Specifics on using **Citric Acid** to break divalent Calcium bridges.
 * **[Mechanical Interference](docs/protocol_mechanical_piezo_interference.md)**: Technical protocol for using **Burr-Rod** interfaces to induce immediate piezoelectric lattice collapse.
-
+* **[EMF Interference](docs/protocol_active_signal_interference.md)**: This protocol documents the use of Software Defined Radio (SDR) to generate localized EMF noise floors. By broadcasting a -32dB noise signal at specific resonant frequencies (2320 MHz, 2400 MHz, 2480 MHz), we can induce a "Static State" in the hydrogel lattice, effectively attenuating its electromechanical response and preventing signal-induced turgor.
+ 
 ---
 
 ## 🔬 Key Findings
