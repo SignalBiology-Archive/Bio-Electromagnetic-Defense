@@ -57,7 +57,7 @@ To overcome systemic vascular resistance and allow medications (Ibuprofen/Insuli
 
 ### 5.2 Pharmacokinetic Success
 For detailed data on how this protocol prevents "medication reversal" and enables the **Insulin Reset**, see the full study here:
-👉 **[Study: Circulatory Blockade & Medication Optimization](https://github.com/SignalBiology-Archive/Ionic-Hydrogel-Somatic-Interface/docs/study_circulatory_blockade.md)**
+👉 **[Study: Circulatory Blockade & Medication Optimization](study_circulatory_blockade.md)**
 
 ---
 
